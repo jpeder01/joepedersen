@@ -1,5 +1,3 @@
-<!--These are notes that are important-->
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
